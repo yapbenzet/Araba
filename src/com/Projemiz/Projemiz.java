@@ -10,7 +10,7 @@
  */
 package com.Projemiz;
 
-import com.Burak.Araba;
+import com.Ahmet.Araba;
 
 public class Projemiz {
 
